@@ -147,17 +147,3 @@ footer {
   color: var(--muted);
   letter-spacing: 0.04em;
 }
-
-.footer-links {
-  display: flex;
-  gap: 1.5rem;
-}
-.footer-links a {
-  font-family: var(--mono);
-  font-size: 0.72rem;
-  color: var(--muted);
-  text-decoration: none;
-  letter-spacing: 0.04em;
-  transition: color 0.2s;
-}
-.footer-links a:hover { color: var(--text); }
